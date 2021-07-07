@@ -1,13 +1,7 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[huy-notes]
+title = "Huy's Notes"
+url = "https://notes.huy.rocks/all-posts"
+entrySelector = ".note-container ul li"
+titleSelector = "a"
+linkSelector = "a"
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
