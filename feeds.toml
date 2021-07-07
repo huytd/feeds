@@ -1,4 +1,4 @@
-[huy-notes]
+[rss]
 title = "Huy's Notes"
 url = "https://notes.huy.rocks/all-posts"
 entrySelector = ".note-container ul li"
