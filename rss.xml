@@ -2,630 +2,630 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://notes.huy.rocks/all-posts</id>
     <title>Huy's Notes</title>
-    <updated>2021-08-21T05:31:48.307Z</updated>
+    <updated>2021-08-21T17:38:14.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://notes.huy.rocks/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Computer and Programming]]></title>
         <id>https://notes.huy.rocks/computer-and-programming</id>
         <link href="https://notes.huy.rocks/computer-and-programming"/>
-        <updated>2021-08-21T05:31:47.238Z</updated>
+        <updated>2021-08-21T17:38:13.150Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/computer-and-programming">Computer and Programming</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Proxying Plausible]]></title>
         <id>https://notes.huy.rocks/proxying-plausible</id>
         <link href="https://notes.huy.rocks/proxying-plausible"/>
-        <updated>2021-08-21T05:31:47.239Z</updated>
+        <updated>2021-08-21T17:38:13.150Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/proxying-plausible">Proxying Plausible</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inbox]]></title>
         <id>https://notes.huy.rocks/inbox</id>
         <link href="https://notes.huy.rocks/inbox"/>
-        <updated>2021-08-21T05:31:47.240Z</updated>
+        <updated>2021-08-21T17:38:13.150Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/inbox">Inbox</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Verify email with telnet]]></title>
         <id>https://notes.huy.rocks/verify-email-with-telnet</id>
         <link href="https://notes.huy.rocks/verify-email-with-telnet"/>
-        <updated>2021-08-21T05:31:47.246Z</updated>
+        <updated>2021-08-21T17:38:13.150Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/verify-email-with-telnet">Verify email with telnet</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Building a web-based code debugger with Docker]]></title>
         <id>https://notes.huy.rocks/building-a-web-based-code-debugger-with-docker</id>
         <link href="https://notes.huy.rocks/building-a-web-based-code-debugger-with-docker"/>
-        <updated>2021-08-21T05:31:47.249Z</updated>
+        <updated>2021-08-21T17:38:13.150Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/building-a-web-based-code-debugger-with-docker">Building a web-based code debugger with Docker</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Actix Framework]]></title>
         <id>https://notes.huy.rocks/actix-framework</id>
         <link href="https://notes.huy.rocks/actix-framework"/>
-        <updated>2021-08-21T05:31:47.252Z</updated>
+        <updated>2021-08-21T17:38:13.150Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/actix-framework">Actix Framework</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Implementing an Event System]]></title>
         <id>https://notes.huy.rocks/implementing-an-event-system</id>
         <link href="https://notes.huy.rocks/implementing-an-event-system"/>
-        <updated>2021-08-21T05:31:47.255Z</updated>
+        <updated>2021-08-21T17:38:13.152Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/implementing-an-event-system">Implementing an Event System</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Operating System]]></title>
         <id>https://notes.huy.rocks/operating-system-notes</id>
         <link href="https://notes.huy.rocks/operating-system-notes"/>
-        <updated>2021-08-21T05:31:47.256Z</updated>
+        <updated>2021-08-21T17:38:13.157Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/operating-system-notes">Operating System</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Process]]></title>
         <id>https://notes.huy.rocks/process</id>
         <link href="https://notes.huy.rocks/process"/>
-        <updated>2021-08-21T05:31:47.260Z</updated>
+        <updated>2021-08-21T17:38:13.159Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/process">Process</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Real-time Postgres Research]]></title>
         <id>https://notes.huy.rocks/real-time-postgres-research</id>
         <link href="https://notes.huy.rocks/real-time-postgres-research"/>
-        <updated>2021-08-21T05:31:47.263Z</updated>
+        <updated>2021-08-21T17:38:13.159Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/real-time-postgres-research">Real-time Postgres Research</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[about]]></title>
         <id>https://notes.huy.rocks/about</id>
         <link href="https://notes.huy.rocks/about"/>
-        <updated>2021-08-21T05:31:47.263Z</updated>
+        <updated>2021-08-21T17:38:13.159Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/about">about</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How Zoom avoid WebRTC]]></title>
         <id>https://notes.huy.rocks/how-zoom-avoid-webrtc</id>
         <link href="https://notes.huy.rocks/how-zoom-avoid-webrtc"/>
-        <updated>2021-08-21T05:31:47.267Z</updated>
+        <updated>2021-08-21T17:38:13.161Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/how-zoom-avoid-webrtc">How Zoom avoid WebRTC</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Non-Technical Skills]]></title>
         <id>https://notes.huy.rocks/non-technical-skills</id>
         <link href="https://notes.huy.rocks/non-technical-skills"/>
-        <updated>2021-08-21T05:31:47.268Z</updated>
+        <updated>2021-08-21T17:38:13.169Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/non-technical-skills">Non-Technical Skills</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Own your ideas]]></title>
         <id>https://notes.huy.rocks/own-your-ideas</id>
         <link href="https://notes.huy.rocks/own-your-ideas"/>
-        <updated>2021-08-21T05:31:47.271Z</updated>
+        <updated>2021-08-21T17:38:13.169Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/own-your-ideas">Own your ideas</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reading Notes]]></title>
         <id>https://notes.huy.rocks/reading-notes</id>
         <link href="https://notes.huy.rocks/reading-notes"/>
-        <updated>2021-08-21T05:31:47.271Z</updated>
+        <updated>2021-08-21T17:38:13.170Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/reading-notes">Reading Notes</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Start a mobile game business]]></title>
         <id>https://notes.huy.rocks/start-a-mobile-game-business</id>
         <link href="https://notes.huy.rocks/start-a-mobile-game-business"/>
-        <updated>2021-08-21T05:31:47.274Z</updated>
+        <updated>2021-08-21T17:38:13.170Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/start-a-mobile-game-business">Start a mobile game business</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Active Listening]]></title>
         <id>https://notes.huy.rocks/active-listening</id>
         <link href="https://notes.huy.rocks/active-listening"/>
-        <updated>2021-08-21T05:31:47.274Z</updated>
+        <updated>2021-08-21T17:38:13.170Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/active-listening">Active Listening</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask questions while listening]]></title>
         <id>https://notes.huy.rocks/ask-questions-while-listening</id>
         <link href="https://notes.huy.rocks/ask-questions-while-listening"/>
-        <updated>2021-08-21T05:31:47.276Z</updated>
+        <updated>2021-08-21T17:38:13.171Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/ask-questions-while-listening">Ask questions while listening</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to speak up during meetings]]></title>
         <id>https://notes.huy.rocks/how-to-speak-up-during-meetings</id>
         <link href="https://notes.huy.rocks/how-to-speak-up-during-meetings"/>
-        <updated>2021-08-21T05:31:47.276Z</updated>
+        <updated>2021-08-21T17:38:13.175Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/how-to-speak-up-during-meetings">How to speak up during meetings</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Authentication]]></title>
         <id>https://notes.huy.rocks/authentication</id>
         <link href="https://notes.huy.rocks/authentication"/>
-        <updated>2021-08-21T05:31:47.277Z</updated>
+        <updated>2021-08-21T17:38:13.184Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/authentication">Authentication</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Listening and Hearing]]></title>
         <id>https://notes.huy.rocks/listening-and-hearing</id>
         <link href="https://notes.huy.rocks/listening-and-hearing"/>
-        <updated>2021-08-21T05:31:47.277Z</updated>
+        <updated>2021-08-21T17:38:13.188Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/listening-and-hearing">Listening and Hearing</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Build Docker image with Github Action]]></title>
         <id>https://notes.huy.rocks/build-docker-image-with-github-action</id>
         <link href="https://notes.huy.rocks/build-docker-image-with-github-action"/>
-        <updated>2021-08-21T05:31:47.279Z</updated>
+        <updated>2021-08-21T17:38:13.195Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/build-docker-image-with-github-action">Build Docker image with Github Action</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Smooth scrolling with MX Ergo]]></title>
         <id>https://notes.huy.rocks/smooth-scrolling-with-mx-ergo</id>
         <link href="https://notes.huy.rocks/smooth-scrolling-with-mx-ergo"/>
-        <updated>2021-08-21T05:31:47.280Z</updated>
+        <updated>2021-08-21T17:38:13.195Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/smooth-scrolling-with-mx-ergo">Smooth scrolling with MX Ergo</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Use MediaSession for audio player]]></title>
         <id>https://notes.huy.rocks/use-mediasession-for-audio-player</id>
         <link href="https://notes.huy.rocks/use-mediasession-for-audio-player"/>
-        <updated>2021-08-21T05:31:47.280Z</updated>
+        <updated>2021-08-21T17:38:13.195Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/use-mediasession-for-audio-player">Use MediaSession for audio player</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Control Philips Smart Light Bulb via UDP]]></title>
         <id>https://notes.huy.rocks/control-philips-smart-light-bulb-via-udp</id>
         <link href="https://notes.huy.rocks/control-philips-smart-light-bulb-via-udp"/>
-        <updated>2021-08-21T05:31:47.281Z</updated>
+        <updated>2021-08-21T17:38:13.195Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/control-philips-smart-light-bulb-via-udp">Control Philips Smart Light Bulb via UDP</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Computer Audio Under the hood]]></title>
         <id>https://notes.huy.rocks/computer-audio-under-the-hood</id>
         <link href="https://notes.huy.rocks/computer-audio-under-the-hood"/>
-        <updated>2021-08-21T05:31:47.283Z</updated>
+        <updated>2021-08-21T17:38:13.197Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/computer-audio-under-the-hood">Computer Audio Under the hood</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NoSQL Injection]]></title>
         <id>https://notes.huy.rocks/nosql-injection</id>
         <link href="https://notes.huy.rocks/nosql-injection"/>
-        <updated>2021-08-21T05:31:47.285Z</updated>
+        <updated>2021-08-21T17:38:13.199Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/nosql-injection">NoSQL Injection</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dynamic Programming - Divisor Game]]></title>
         <id>https://notes.huy.rocks/dynamic-programming-divisor-game</id>
         <link href="https://notes.huy.rocks/dynamic-programming-divisor-game"/>
-        <updated>2021-08-21T05:31:47.285Z</updated>
+        <updated>2021-08-21T17:38:13.201Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/dynamic-programming-divisor-game">Dynamic Programming - Divisor Game</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Automate your static blog deployment with Github Page]]></title>
         <id>https://notes.huy.rocks/automate-your-static-blog-deployment-with-github-page</id>
         <link href="https://notes.huy.rocks/automate-your-static-blog-deployment-with-github-page"/>
-        <updated>2021-08-21T05:31:47.286Z</updated>
+        <updated>2021-08-21T17:38:13.202Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/automate-your-static-blog-deployment-with-github-page">Automate your static blog deployment with Github Page</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Algorithm - Partition a number to sum of smaller ones]]></title>
         <id>https://notes.huy.rocks/algorithm-partition-a-number-to-sum-of-smaller-ones</id>
         <link href="https://notes.huy.rocks/algorithm-partition-a-number-to-sum-of-smaller-ones"/>
-        <updated>2021-08-21T05:31:47.290Z</updated>
+        <updated>2021-08-21T17:38:13.204Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/algorithm-partition-a-number-to-sum-of-smaller-ones">Algorithm - Partition a number to sum of smaller ones</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Encryption Basics]]></title>
         <id>https://notes.huy.rocks/encryption-basics</id>
         <link href="https://notes.huy.rocks/encryption-basics"/>
-        <updated>2021-08-21T05:31:47.290Z</updated>
+        <updated>2021-08-21T17:38:13.206Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/encryption-basics">Encryption Basics</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Generate GraphQL resolver dynamically]]></title>
         <id>https://notes.huy.rocks/generate-graphql-resolver-dynamically</id>
         <link href="https://notes.huy.rocks/generate-graphql-resolver-dynamically"/>
-        <updated>2021-08-21T05:31:47.292Z</updated>
+        <updated>2021-08-21T17:38:13.207Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/generate-graphql-resolver-dynamically">Generate GraphQL resolver dynamically</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Emacs for note-taking]]></title>
         <id>https://notes.huy.rocks/emacs-for-note-taking</id>
         <link href="https://notes.huy.rocks/emacs-for-note-taking"/>
-        <updated>2021-08-21T05:31:47.294Z</updated>
+        <updated>2021-08-21T17:38:13.209Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/emacs-for-note-taking">Emacs for note-taking</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How I built this notebook]]></title>
         <id>https://notes.huy.rocks/how-i-built-this-notebook</id>
         <link href="https://notes.huy.rocks/how-i-built-this-notebook"/>
-        <updated>2021-08-21T05:31:47.296Z</updated>
+        <updated>2021-08-21T17:38:13.211Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/how-i-built-this-notebook">How I built this notebook</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Actor Model]]></title>
         <id>https://notes.huy.rocks/actor-model</id>
         <link href="https://notes.huy.rocks/actor-model"/>
-        <updated>2021-08-21T05:31:47.297Z</updated>
+        <updated>2021-08-21T17:38:13.212Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/actor-model">Actor Model</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Restrict access to CouchDB database]]></title>
         <id>https://notes.huy.rocks/restrict-access-to-couchdb-database</id>
         <link href="https://notes.huy.rocks/restrict-access-to-couchdb-database"/>
-        <updated>2021-08-21T05:31:47.299Z</updated>
+        <updated>2021-08-21T17:38:13.214Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/restrict-access-to-couchdb-database">Restrict access to CouchDB database</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Free SSL for Heroku with Cloudflare]]></title>
         <id>https://notes.huy.rocks/free-ssl-for-heroku-with-cloudflare</id>
         <link href="https://notes.huy.rocks/free-ssl-for-heroku-with-cloudflare"/>
-        <updated>2021-08-21T05:31:47.299Z</updated>
+        <updated>2021-08-21T17:38:13.215Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/free-ssl-for-heroku-with-cloudflare">Free SSL for Heroku with Cloudflare</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud Tasks]]></title>
         <id>https://notes.huy.rocks/google-cloud-tasks</id>
         <link href="https://notes.huy.rocks/google-cloud-tasks"/>
-        <updated>2021-08-21T05:31:47.300Z</updated>
+        <updated>2021-08-21T17:38:13.219Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/google-cloud-tasks">Google Cloud Tasks</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Programmatically mark email as spam using IMAP]]></title>
         <id>https://notes.huy.rocks/programmatically-mark-email-as-spam-using-imap</id>
         <link href="https://notes.huy.rocks/programmatically-mark-email-as-spam-using-imap"/>
-        <updated>2021-08-21T05:31:47.305Z</updated>
+        <updated>2021-08-21T17:38:13.221Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/programmatically-mark-email-as-spam-using-imap">Programmatically mark email as spam using IMAP</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Red-Black Tree in Linux Kernel]]></title>
         <id>https://notes.huy.rocks/red-black-tree-in-linux-kernel</id>
         <link href="https://notes.huy.rocks/red-black-tree-in-linux-kernel"/>
-        <updated>2021-08-21T05:31:47.305Z</updated>
+        <updated>2021-08-21T17:38:13.222Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/red-black-tree-in-linux-kernel">Red-Black Tree in Linux Kernel</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notes on Terminal]]></title>
         <id>https://notes.huy.rocks/notes-on-terminal</id>
         <link href="https://notes.huy.rocks/notes-on-terminal"/>
-        <updated>2021-08-21T05:31:47.305Z</updated>
+        <updated>2021-08-21T17:38:13.226Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/notes-on-terminal">Notes on Terminal</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Operating System Notes]]></title>
         <id>https://notes.huy.rocks/operating-system-notes</id>
         <link href="https://notes.huy.rocks/operating-system-notes"/>
-        <updated>2021-08-21T05:31:47.306Z</updated>
+        <updated>2021-08-21T17:38:13.228Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/operating-system-notes">Operating System Notes</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quadtree for large scene optimization]]></title>
         <id>https://notes.huy.rocks/quadtree-for-large-scene-optimization</id>
         <link href="https://notes.huy.rocks/quadtree-for-large-scene-optimization"/>
-        <updated>2021-08-21T05:31:47.310Z</updated>
+        <updated>2021-08-21T17:38:13.230Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/quadtree-for-large-scene-optimization">Quadtree for large scene optimization</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[System Call]]></title>
         <id>https://notes.huy.rocks/system-call</id>
         <link href="https://notes.huy.rocks/system-call"/>
-        <updated>2021-08-21T05:31:47.310Z</updated>
+        <updated>2021-08-21T17:38:13.232Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/system-call">System Call</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS - Sentence case]]></title>
         <id>https://notes.huy.rocks/css-sentence-case</id>
         <link href="https://notes.huy.rocks/css-sentence-case"/>
-        <updated>2021-08-21T05:31:47.315Z</updated>
+        <updated>2021-08-21T17:38:13.233Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/css-sentence-case">CSS - Sentence case</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Compile Rust to WebAssembly]]></title>
         <id>https://notes.huy.rocks/compile-rust-to-webassembly</id>
         <link href="https://notes.huy.rocks/compile-rust-to-webassembly"/>
-        <updated>2021-08-21T05:31:47.316Z</updated>
+        <updated>2021-08-21T17:38:13.235Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/compile-rust-to-webassembly">Compile Rust to WebAssembly</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Algorithm - Generate repeated combinatorial]]></title>
         <id>https://notes.huy.rocks/algorithm-generate-repeated-combinatorial</id>
         <link href="https://notes.huy.rocks/algorithm-generate-repeated-combinatorial"/>
-        <updated>2021-08-21T05:31:47.316Z</updated>
+        <updated>2021-08-21T17:38:13.237Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/algorithm-generate-repeated-combinatorial">Algorithm - Generate repeated combinatorial</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS - Padding and Margin notes]]></title>
         <id>https://notes.huy.rocks/css-padding-and-margin-notes</id>
         <link href="https://notes.huy.rocks/css-padding-and-margin-notes"/>
-        <updated>2021-08-21T05:31:47.317Z</updated>
+        <updated>2021-08-21T17:38:13.239Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/css-padding-and-margin-notes">CSS - Padding and Margin notes</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Calculation with undefined and null]]></title>
         <id>https://notes.huy.rocks/calculation-with-undefined-and-null</id>
         <link href="https://notes.huy.rocks/calculation-with-undefined-and-null"/>
-        <updated>2021-08-21T05:31:47.319Z</updated>
+        <updated>2021-08-21T17:38:13.241Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/calculation-with-undefined-and-null">Calculation with undefined and null</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dark Mode for Tailwind]]></title>
         <id>https://notes.huy.rocks/dark-mode-for-tailwind</id>
         <link href="https://notes.huy.rocks/dark-mode-for-tailwind"/>
-        <updated>2021-08-21T05:31:47.321Z</updated>
+        <updated>2021-08-21T17:38:13.242Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/dark-mode-for-tailwind">Dark Mode for Tailwind</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Implementing hardware level key lock]]></title>
         <id>https://notes.huy.rocks/implementing-hardware-level-key-lock</id>
         <link href="https://notes.huy.rocks/implementing-hardware-level-key-lock"/>
-        <updated>2021-08-21T05:31:47.322Z</updated>
+        <updated>2021-08-21T17:38:13.244Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/implementing-hardware-level-key-lock">Implementing hardware level key lock</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notes on Deploying Next.js to Heroku]]></title>
         <id>https://notes.huy.rocks/notes-on-deploying-nextjs-to-heroku</id>
         <link href="https://notes.huy.rocks/notes-on-deploying-nextjs-to-heroku"/>
-        <updated>2021-08-21T05:31:47.323Z</updated>
+        <updated>2021-08-21T17:38:13.246Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/notes-on-deploying-nextjs-to-heroku">Notes on Deploying Next.js to Heroku</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Packing two bytes into an integer]]></title>
         <id>https://notes.huy.rocks/packing-two-bytes-into-an-integer</id>
         <link href="https://notes.huy.rocks/packing-two-bytes-into-an-integer"/>
-        <updated>2021-08-21T05:31:47.338Z</updated>
+        <updated>2021-08-21T17:38:13.248Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/packing-two-bytes-into-an-integer">Packing two bytes into an integer</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Position Sticky]]></title>
         <id>https://notes.huy.rocks/position-sticky</id>
         <link href="https://notes.huy.rocks/position-sticky"/>
-        <updated>2021-08-21T05:31:47.338Z</updated>
+        <updated>2021-08-21T17:38:13.250Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/position-sticky">Position Sticky</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Returning an Iterator]]></title>
         <id>https://notes.huy.rocks/returning-an-iterator</id>
         <link href="https://notes.huy.rocks/returning-an-iterator"/>
-        <updated>2021-08-21T05:31:47.339Z</updated>
+        <updated>2021-08-21T17:38:13.252Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/returning-an-iterator">Returning an Iterator</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Split Keyboard Firmware Design]]></title>
         <id>https://notes.huy.rocks/split-keyboard-firmware-design</id>
         <link href="https://notes.huy.rocks/split-keyboard-firmware-design"/>
-        <updated>2021-08-21T05:31:47.341Z</updated>
+        <updated>2021-08-21T17:38:13.257Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/split-keyboard-firmware-design">Split Keyboard Firmware Design</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Threads in WebAssembly]]></title>
         <id>https://notes.huy.rocks/threads-in-webassembly</id>
         <link href="https://notes.huy.rocks/threads-in-webassembly"/>
-        <updated>2021-08-21T05:31:47.345Z</updated>
+        <updated>2021-08-21T17:38:13.257Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/threads-in-webassembly">Threads in WebAssembly</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[wasm-bindgen]]></title>
         <id>https://notes.huy.rocks/wasm-bindgen</id>
         <link href="https://notes.huy.rocks/wasm-bindgen"/>
-        <updated>2021-08-21T05:31:47.345Z</updated>
+        <updated>2021-08-21T17:38:13.261Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/wasm-bindgen">wasm-bindgen</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quicksort]]></title>
         <id>https://notes.huy.rocks/quicksort</id>
         <link href="https://notes.huy.rocks/quicksort"/>
-        <updated>2021-08-21T05:31:47.345Z</updated>
+        <updated>2021-08-21T17:38:13.262Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/quicksort">Quicksort</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Workers with Rust]]></title>
         <id>https://notes.huy.rocks/cloudflare-workers-with-rust</id>
         <link href="https://notes.huy.rocks/cloudflare-workers-with-rust"/>
-        <updated>2021-08-21T05:31:47.345Z</updated>
+        <updated>2021-08-21T17:38:13.262Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/cloudflare-workers-with-rust">Cloudflare Workers with Rust</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Find the Second Largest Element]]></title>
         <id>https://notes.huy.rocks/find-the-second-largest-element</id>
         <link href="https://notes.huy.rocks/find-the-second-largest-element"/>
-        <updated>2021-08-21T05:31:47.345Z</updated>
+        <updated>2021-08-21T17:38:13.264Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/find-the-second-largest-element">Find the Second Largest Element</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Setting multiple CSS properties at once with jQuery doesn't batch]]></title>
         <id>https://notes.huy.rocks/setting-multiple-css-properties-at-once-with-jquery-doesnt-batch</id>
         <link href="https://notes.huy.rocks/setting-multiple-css-properties-at-once-with-jquery-doesnt-batch"/>
-        <updated>2021-08-21T05:31:47.345Z</updated>
+        <updated>2021-08-21T17:38:13.266Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/setting-multiple-css-properties-at-once-with-jquery-doesnt-batch">Setting multiple CSS properties at once with jQuery doesn't batch</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Atomic Design]]></title>
         <id>https://notes.huy.rocks/atomic-design</id>
         <link href="https://notes.huy.rocks/atomic-design"/>
-        <updated>2021-08-21T05:31:47.345Z</updated>
+        <updated>2021-08-21T17:38:13.268Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/atomic-design">Atomic Design</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dockerize and Deploy application to Heroku]]></title>
         <id>https://notes.huy.rocks/dockerize-and-deploy-application-to-heroku</id>
         <link href="https://notes.huy.rocks/dockerize-and-deploy-application-to-heroku"/>
-        <updated>2021-08-21T05:31:47.346Z</updated>
+        <updated>2021-08-21T17:38:13.269Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/dockerize-and-deploy-application-to-heroku">Dockerize and Deploy application to Heroku</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to create an Actor in Actix]]></title>
         <id>https://notes.huy.rocks/how-to-create-an-actor-in-actix</id>
         <link href="https://notes.huy.rocks/how-to-create-an-actor-in-actix"/>
-        <updated>2021-08-21T05:31:47.347Z</updated>
+        <updated>2021-08-21T17:38:13.271Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/how-to-create-an-actor-in-actix">How to create an Actor in Actix</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown parser using Nom]]></title>
         <id>https://notes.huy.rocks/markdown-parser-using-nom</id>
         <link href="https://notes.huy.rocks/markdown-parser-using-nom"/>
-        <updated>2021-08-21T05:31:47.349Z</updated>
+        <updated>2021-08-21T17:38:13.273Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/markdown-parser-using-nom">Markdown parser using Nom</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mental Models]]></title>
         <id>https://notes.huy.rocks/mental-models</id>
         <link href="https://notes.huy.rocks/mental-models"/>
-        <updated>2021-08-21T05:31:47.350Z</updated>
+        <updated>2021-08-21T17:38:13.274Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/mental-models">Mental Models</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nom Parser]]></title>
         <id>https://notes.huy.rocks/nom-parser</id>
         <link href="https://notes.huy.rocks/nom-parser"/>
-        <updated>2021-08-21T05:31:47.351Z</updated>
+        <updated>2021-08-21T17:38:13.276Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/nom-parser">Nom Parser</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Parser Combinator]]></title>
         <id>https://notes.huy.rocks/parser-combinator</id>
         <link href="https://notes.huy.rocks/parser-combinator"/>
-        <updated>2021-08-21T05:31:47.352Z</updated>
+        <updated>2021-08-21T17:38:13.278Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/parser-combinator">Parser Combinator</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Preact and React Developer Tools]]></title>
         <id>https://notes.huy.rocks/preact-and-react-developer-tools</id>
         <link href="https://notes.huy.rocks/preact-and-react-developer-tools"/>
-        <updated>2021-08-21T05:31:47.354Z</updated>
+        <updated>2021-08-21T17:38:13.279Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/preact-and-react-developer-tools">Preact and React Developer Tools</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rediscovering the Benefits of Drawing]]></title>
         <id>https://notes.huy.rocks/rediscovering-the-benefits-of-drawing</id>
         <link href="https://notes.huy.rocks/rediscovering-the-benefits-of-drawing"/>
-        <updated>2021-08-21T05:31:47.355Z</updated>
+        <updated>2021-08-21T17:38:13.281Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/rediscovering-the-benefits-of-drawing">Rediscovering the Benefits of Drawing</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Social Loafing]]></title>
         <id>https://notes.huy.rocks/social-loafing</id>
         <link href="https://notes.huy.rocks/social-loafing"/>
-        <updated>2021-08-21T05:31:47.356Z</updated>
+        <updated>2021-08-21T17:38:13.288Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/social-loafing">Social Loafing</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Art of Close Reading]]></title>
         <id>https://notes.huy.rocks/the-art-of-close-reading</id>
         <link href="https://notes.huy.rocks/the-art-of-close-reading"/>
-        <updated>2021-08-21T05:31:47.357Z</updated>
+        <updated>2021-08-21T17:38:13.288Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/the-art-of-close-reading">The Art of Close Reading</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The point of API Keys]]></title>
         <id>https://notes.huy.rocks/the-point-of-api-keys</id>
         <link href="https://notes.huy.rocks/the-point-of-api-keys"/>
-        <updated>2021-08-21T05:31:47.359Z</updated>
+        <updated>2021-08-21T17:38:13.290Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/the-point-of-api-keys">The point of API Keys</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tree Drawing Algorithm]]></title>
         <id>https://notes.huy.rocks/tree-drawing-algorithm</id>
         <link href="https://notes.huy.rocks/tree-drawing-algorithm"/>
-        <updated>2021-08-21T05:31:47.360Z</updated>
+        <updated>2021-08-21T17:38:13.291Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/tree-drawing-algorithm">Tree Drawing Algorithm</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gatsby - Theme Shadowing]]></title>
         <id>https://notes.huy.rocks/gatsby-theme-shadowing</id>
         <link href="https://notes.huy.rocks/gatsby-theme-shadowing"/>
-        <updated>2021-08-21T05:31:47.361Z</updated>
+        <updated>2021-08-21T17:38:13.293Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/gatsby-theme-shadowing">Gatsby - Theme Shadowing</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gatsby]]></title>
         <id>https://notes.huy.rocks/gatsby</id>
         <link href="https://notes.huy.rocks/gatsby"/>
-        <updated>2021-08-21T05:31:47.363Z</updated>
+        <updated>2021-08-21T17:38:13.294Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/gatsby">Gatsby</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to navigate this notebook]]></title>
         <id>https://notes.huy.rocks/how-to-navigate-this-notebook</id>
         <link href="https://notes.huy.rocks/how-to-navigate-this-notebook"/>
-        <updated>2021-08-21T05:31:47.364Z</updated>
+        <updated>2021-08-21T17:38:13.296Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/how-to-navigate-this-notebook">How to navigate this notebook</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Parkinson's Law]]></title>
         <id>https://notes.huy.rocks/parkinsons-law</id>
         <link href="https://notes.huy.rocks/parkinsons-law"/>
-        <updated>2021-08-21T05:31:47.366Z</updated>
+        <updated>2021-08-21T17:38:13.298Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/parkinsons-law">Parkinson's Law</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Custom device name for Teensy]]></title>
         <id>https://notes.huy.rocks/custom-device-name-for-teensy</id>
         <link href="https://notes.huy.rocks/custom-device-name-for-teensy"/>
-        <updated>2021-08-21T05:31:47.367Z</updated>
+        <updated>2021-08-21T17:38:13.299Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/custom-device-name-for-teensy">Custom device name for Teensy</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[React inside a Backbone View]]></title>
         <id>https://notes.huy.rocks/react-inside-a-backbone-view</id>
         <link href="https://notes.huy.rocks/react-inside-a-backbone-view"/>
-        <updated>2021-08-21T05:31:47.369Z</updated>
+        <updated>2021-08-21T17:38:13.301Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/react-inside-a-backbone-view">React inside a Backbone View</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[quadtree]]></title>
         <id>https://notes.huy.rocks/quadtree</id>
         <link href="https://notes.huy.rocks/quadtree"/>
-        <updated>2021-08-21T05:31:47.370Z</updated>
+        <updated>2021-08-21T17:38:13.303Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/quadtree">quadtree</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bare Metal Raspberry Pi Notes]]></title>
         <id>https://notes.huy.rocks/bare-metal-raspberry-pi-notes</id>
         <link href="https://notes.huy.rocks/bare-metal-raspberry-pi-notes"/>
-        <updated>2021-08-21T05:31:47.372Z</updated>
+        <updated>2021-08-21T17:38:13.305Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/bare-metal-raspberry-pi-notes">Bare Metal Raspberry Pi Notes</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fuzzy Testing]]></title>
         <id>https://notes.huy.rocks/fuzzy-testing</id>
         <link href="https://notes.huy.rocks/fuzzy-testing"/>
-        <updated>2021-08-21T05:31:47.374Z</updated>
+        <updated>2021-08-21T17:38:13.306Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/fuzzy-testing">Fuzzy Testing</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to create a SystemService in Actix]]></title>
         <id>https://notes.huy.rocks/how-to-create-a-systemservice-in-actix</id>
         <link href="https://notes.huy.rocks/how-to-create-a-systemservice-in-actix"/>
-        <updated>2021-08-21T05:31:47.375Z</updated>
+        <updated>2021-08-21T17:38:13.308Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/how-to-create-a-systemservice-in-actix">How to create a SystemService in Actix</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to create a Websocket Actor in Actix]]></title>
         <id>https://notes.huy.rocks/how-to-create-a-websocket-actor-in-actix</id>
         <link href="https://notes.huy.rocks/how-to-create-a-websocket-actor-in-actix"/>
-        <updated>2021-08-21T05:31:47.376Z</updated>
+        <updated>2021-08-21T17:38:13.313Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/how-to-create-a-websocket-actor-in-actix">How to create a Websocket Actor in Actix</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notes on Actix ActorFuture]]></title>
         <id>https://notes.huy.rocks/notes-on-actix-actorfuture</id>
         <link href="https://notes.huy.rocks/notes-on-actix-actorfuture"/>
-        <updated>2021-08-21T05:31:47.378Z</updated>
+        <updated>2021-08-21T17:38:13.315Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/notes-on-actix-actorfuture">Notes on Actix ActorFuture</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Parser]]></title>
         <id>https://notes.huy.rocks/parser</id>
         <link href="https://notes.huy.rocks/parser"/>
-        <updated>2021-08-21T05:31:47.379Z</updated>
+        <updated>2021-08-21T17:38:13.316Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/parser">Parser</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tetris Effect]]></title>
         <id>https://notes.huy.rocks/tetris-effect</id>
         <link href="https://notes.huy.rocks/tetris-effect"/>
-        <updated>2021-08-21T05:31:47.380Z</updated>
+        <updated>2021-08-21T17:38:13.318Z</updated>
         <content type="html"><![CDATA[<span class="css-1m5zv5f">[</span><a class="css-kcb0h1" href="/tetris-effect">Tetris Effect</a><span class="css-1m5zv5f">]</span>]]></content>
     </entry>
 </feed>
